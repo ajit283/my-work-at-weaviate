@@ -1,22 +1,8 @@
 # My Work at Weaviate
 
-## Developer Growth Team
+Hey! I'm Ajit, a 3rd year CS Bachelor student at ETH Zurich. I decided to take a semester off for an internship at Weaviate and want to present the stuff I've been working on.
 
-### Web Application Demos
-
-These web applications aim to show developers what is possible with Weaviate and to provide a starting point for their own projects.
-
-I used React and Next.js (using React Server Components + Server Actions) for both projects.
-
-- [QuoteFinder](https://quotefinder.weaviate.io/)
-- [Emoji Search](https://emoji.weaviate.io/)
-
-### Jupyter Notebooks
-
-I wrote several notebooks demonstrating several advanced RAG (Retrieval-Augmented Generation) techniques using Weaviate and related libraries:
-
-- [Binary Quantization with Weaviate + Cohere](https://www.kaggle.com/code/ajitmistry/binary-quantization-with-weaviate-cohere)
-- [Chat with your Code: Advanced RAG with Weaviate and LlamaIndex](https://lightning.ai/weaviate/studios/chat-with-your-code-advanced-rag-with-weaviate-and-llamaindex)
+Thanks to the flexibility of Weaviate, I was able to work on two different teams, which allowed me to learn about several aspects of a startup - in the Applied Research Team, I was able to see how the theoretical concepts I learned in uni were applied to improve production-level software, while in the Developer Growth Team, I experienced how these improvements could be communicated effectively to gain users and reach.
 
 ## Applied Research Team
 
@@ -44,3 +30,21 @@ Additionally, I read several papers related to performance improvements for vect
 - [ACORN: Performant and Predicate-Agnostic Search Over Vector Embeddings and Structured Data](https://arxiv.org/abs/2403.04871)
 
 to participate in implementation discussions and code reviews.
+
+## Developer Growth Team
+
+### Web Application Demos
+
+These web applications aim to show developers what is possible with Weaviate and to provide a starting point for their own projects.
+
+I used React and Next.js (using React Server Components + Server Actions) for both projects.
+
+- [QuoteFinder](https://quotefinder.weaviate.io/)
+- [Emoji Search](https://emoji.weaviate.io/)
+
+### Jupyter Notebooks
+
+I wrote several notebooks demonstrating several advanced RAG (Retrieval-Augmented Generation) techniques using Weaviate and related libraries:
+
+- [Binary Quantization with Weaviate + Cohere](https://www.kaggle.com/code/ajitmistry/binary-quantization-with-weaviate-cohere)
+- [Chat with your Code: Advanced RAG with Weaviate and LlamaIndex](https://lightning.ai/weaviate/studios/chat-with-your-code-advanced-rag-with-weaviate-and-llamaindex)
